@@ -19,7 +19,7 @@ public class Main {
         System.out.println("Задача 2");
         float a1 = 27.12f;
         long b1 = 987_678_965_549L;
-        double c1 = 2.786f;
+        double c1 = 2.786;
         short d1 = 569;
         short e1 = -159;
         int f1 = 27897;
